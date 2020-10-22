@@ -1,2 +1,2 @@
-# Program-Practtice
+# Program-Practice
 Python Programming
